@@ -1,0 +1,20 @@
+{
+  "name": "javascriptdatabase",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/LoekVeldHuis/JavascriptDatabase#readme",
+  "bugs": {
+    "url": "https://github.com/LoekVeldHuis/JavascriptDatabase/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoekVeldHuis/JavascriptDatabase.git"
+  },
+  "license": "ISC",
+  "author": "Loek en Suzanne",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
